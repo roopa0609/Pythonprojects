@@ -1,3 +1,4 @@
+print("This is my first program in python")
 a=12
 b=44
 c=a+b
