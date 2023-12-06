@@ -1,3 +1,6 @@
 This is my first line
 This is my second line
 I made a mistake swtich to the main branch
+This is line in feature branch
+I made some changes to Test.txt switching to master
+
