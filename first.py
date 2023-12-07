@@ -10,4 +10,4 @@ p=123455
 t=1
 r=2
 si=p*t*r/100
-print(si);
+print("Simple Interest : ",si)
